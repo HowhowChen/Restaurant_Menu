@@ -29,7 +29,7 @@ function sortUpToDown() {
   menuObject.forEach(item => {
     dataPanel.appendChild(item.html)
   })
-
+  
 }
   
 
